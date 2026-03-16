@@ -1,11 +1,10 @@
 # KSysGuard (KF6 port)
 ![alt text](https://github.com/ihateSELinux/ksysguard6-debian/blob/master/ksysguard6-debian13.png)
 
-This is forked from [zvova7890's own fork](https://github.com/zvova7890/ksysguard6) of **the KSysGuard app** (no longer shipped
+This repository hosts Debian builds of [zvova7890's own fork](https://github.com/zvova7890/ksysguard6) of **the KSysGuard app** (no longer shipped
 with KDE 6).
-The aim of this ksysguard6-debian repository is to build .deb packages so that users may quickly and easily install the program on newer versions of Debian.
 
-By-and-large the actual source code of this repository will not be updated and should be ignored, as the builds will simply track zvova7890's own repo.
+By-and-large the actual source code of this ksysguard6-debian repository will not be updated and should be ignored, as the builds will simply track zvova7890's own repo.
 
 # Installation
 On Debian KDE it should be as simple as downloading the latest .deb installer from [releases](https://github.com/ihateSELinux/ksysguard6-debian/releases/) and double-clicking it to install through Discover.
